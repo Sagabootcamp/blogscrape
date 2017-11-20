@@ -1,0 +1,14 @@
+body{
+   background-color: grey;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: rgb(0, 204, 255);
+}
+
+.jumbotron button{
+    float: center;
+}
+
+
